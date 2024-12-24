@@ -15,7 +15,7 @@ namespace Test
                 Id = 3239198,
                 Age = 42,
                 IsMarried = false,
-                Name = "°û¸»Ãâ",
+                Name = "Arin",
                 Sex = Sex.NON_SEX,
                 Sex2 = Sex.FEMALE
             };
