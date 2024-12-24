@@ -1,0 +1,12 @@
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.csproj.AssemblyReference.cache
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.AssemblyInfoInputs.cache
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.AssemblyInfo.cs
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.csproj.CoreCompileInputs.cache
+C:\Users\qudrl\source\repos\Ini\Ini\bin\Debug\net6.0\Ini.deps.json
+C:\Users\qudrl\source\repos\Ini\Ini\bin\Debug\net6.0\Ini.dll
+C:\Users\qudrl\source\repos\Ini\Ini\bin\Debug\net6.0\Ini.pdb
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.dll
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\refint\Ini.dll
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\Ini.pdb
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\net6.0\ref\Ini.dll

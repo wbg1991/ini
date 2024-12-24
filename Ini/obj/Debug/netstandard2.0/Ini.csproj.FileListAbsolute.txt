@@ -1,0 +1,5 @@
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\netstandard2.0\Ini.csproj.AssemblyReference.cache
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\netstandard2.0\Ini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\netstandard2.0\Ini.AssemblyInfoInputs.cache
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\netstandard2.0\Ini.AssemblyInfo.cs
+C:\Users\qudrl\source\repos\Ini\Ini\obj\Debug\netstandard2.0\Ini.csproj.CoreCompileInputs.cache
